@@ -22,8 +22,11 @@ Lavras, Minas Gerais, Brasil
 4. Java
 
 ## Experiência Profissional
-1. **Progen Brasil Tecnologia**  
-    Desenvolvedor PHP - Estágio (mai de 2021 - jun de 2021)
-2. **ioasys**  
-    Desenvolvedor NodeJs - Estágio (jul de 2021 - fev de 2022)  
-    Desenvolvedor NodeJs - Tempo Integral (fev de 2022 - o momento)
+1. ![progen](progen.jpeg "progen")   
+**Progen Brasil Tecnologia**  
+Desenvolvedor PHP - Estágio (mai de 2021 - jun de 2021)
+
+2. ![ioasys](ioasys.jpeg "ioasys")  
+**ioasys**  
+Desenvolvedor NodeJs - Estágio (jul de 2021 - fev de 2022)  
+Desenvolvedor NodeJs - Tempo Integral (fev de 2022 - o momento)
